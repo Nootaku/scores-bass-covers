@@ -3,15 +3,18 @@
 ### Information
 This repository contains a collection of scores that I've transcribed over time when learning new songs.<br>Although I have been the one to write the scores, I want go give credit to the original artists and bass players I've gotten my inspiration from. Everything will be listed below.
 
-***IF YOU POSSESS THE RIGHTS OF A SONG LISTED BELOW*** and you want me to remove the access to the score I have written for the song. Feel free to contact me as I have no problems removing a song.
+##### LEGAL
+The intent of this repository is twofold:
+1. Centralized storage of the scores I have written for easy personal access.
+2. Help musicians to find inspiration and / or learn a song *(esp. for songs that cannot be found on mainstream websites like [Songsterr](https://www.songsterr.com/), [Ultimate-guitar](https://www.ultimate-guitar.com/) or [GuitareTab](https://www.guitaretab.com) ==> This is also why the current repository contains mainly asian J-Rock songs)*.
+ 
+By no means do I intend to sell, or otherwise personaly benefit from publishing the transcription work that I have done.
 
-Feel free to use my scores if you want to learn one of the songs. However, do not go against any local or global copyright laws.
+> ***IF YOU POSSESS THE RIGHTS OF A SONG LISTED BELOW*** and if you want me to remove the access to the score or otherwise disagree with the content of this repository, please contact me.
 
-Final piece of information:<br>
-All songs have not been scored identically. For some sets I've played live, I just needed the chords and lyrics. Hence they are chords sheets.<br>
-For others it is a full score (score + tab).
-
-***This list and the files will have to be updated still.***
+Musicians:
+- Feel free to look at the score, but please do not download them.
+- Think of this repository as a score-book that your friend owns: You can read through the book but you wouldn't take it back home.
 
 ### List of songs
 The songs are subdivided into categories.
@@ -19,16 +22,12 @@ The songs are subdivided into categories.
 ##### Pop
 | Artist | Title | Extra Description |
 | --- | --- | --- |
-| The Beetles | Drive My Car | - |
+| No | Songs | Yet |
 
 ##### Rock
 | Artist | Title | Extra Description |
 | --- | --- | --- |
-| David Bowie | Space Odity | - |
-| Elvis Presley | Can't Help Falling In Love | - |
-| Greenday | Good Riddence | - |
-| Pink Floyd | Breathe | - |
-| The Scorpions | Still Loving You | - |
+| No | Songs | Yet |
 
 ##### J-Rock
 | Artist | Title | Extra Description |
@@ -44,12 +43,14 @@ The songs are subdivided into categories.
 ##### Jazz
 | Artist | Title | Extra Description |
 | --- | --- | --- |
+| No | Songs | Yet |
 
 ##### Other
 | Artist | Title | Extra Description |
 | --- | --- | --- |
+| No | Songs | Yet |
 
-### Thanks to the following musicians
+### Inspiration from the following musicians
 The following musicians have been an inspiration for the scores. Be sure to go and check them out.
 - [tmsw](https://www.youtube.com/channel/UCERcRHF1qiCOwdBpxCCJ7Vw) for J-Rock
 - [dr m](https://www.youtube.com/user/drm0120) for J-Rock
