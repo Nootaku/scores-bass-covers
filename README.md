@@ -9,6 +9,8 @@ Final piece of information:<br>
 All songs have not been scored identically. For some sets I've played live, I just needed the chords and lyrics. Hence they are chords sheets.<br>
 For others it is a full score (score + tab).
 
+***This list and the files will have to be updated still.***
+
 ### List of songs
 The songs are subdivided into categories.
 
@@ -31,3 +33,9 @@ The songs are subdivided into categories.
 ##### Jazz
 
 ##### Other
+
+### Thanks to the following musicians
+The following musicians have been an inspiration for the scores. Be sure to go and check them out.
+- [tmsw](https://www.youtube.com/channel/UCERcRHF1qiCOwdBpxCCJ7Vw) for J-Rock
+- [dr m](https://www.youtube.com/user/drm0120) for J-Rock
+- [Mike Massé](https://www.youtube.com/channel/UCEVZNpzM9oDegvplv5Z36Sw) for Accoustic Pop / Rock
