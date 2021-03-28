@@ -15,24 +15,37 @@ For others it is a full score (score + tab).
 The songs are subdivided into categories.
 
 ##### Pop
-
+| Artist | Title | Extra Description |
+| --- | --- | --- |
+| The Beetles | Drive My Car | - |
 
 ##### Rock
-- The Beetles     - Drive My Car
-- David Bowie     - Space Odity
-- Elvis Presley   - Can't Help Falling In Love
-- Greenday        - Good Riddence
-- Pink Floyd      - Breathe
-- The Scorpions   - Still Loving You
+| Artist | Title | Extra Description |
+| --- | --- | --- |
+| David Bowie | Space Odity | - |
+| Elvis Presley | Can't Help Falling In Love | - |
+| Greenday | Good Riddence | - |
+| Pink Floyd | Breathe | - |
+| The Scorpions | Still Loving You | - |
 
 ##### J-Rock
-- EVE     - 僕らまだアンダーグラウンド
-- Neru    - 東京テディベア
-- Yama
+| Artist | Title | Extra Description |
+| --- | --- | --- |
+| EVE | 僕らまだアンダーグラウンド | - |
+| Neru | 東京テディベア | - |
+| Yama | 麻痺 | Anime OP - 2.43: Seiin Kōkō Danshi Barē-bu |
+| Who-Ya | Vivid Vice | Anime OP - Jujutsu Kaisen |
+| Snowman | Grandeur | Anime OP - Black Clover (OP 13) |
+| Rude-α | Paradise | Anime OP - Sk8 Infinity |
+| Haneta | 声 | Anime ED - Dr. Stone - Stone Wars |
 
 ##### Jazz
+| Artist | Title | Extra Description |
+| --- | --- | --- |
 
 ##### Other
+| Artist | Title | Extra Description |
+| --- | --- | --- |
 
 ### Thanks to the following musicians
 The following musicians have been an inspiration for the scores. Be sure to go and check them out.
