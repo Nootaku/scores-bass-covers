@@ -3,6 +3,8 @@
 ### Information
 This repository contains a collection of scores that I've transcribed over time when learning new songs.<br>Although I have been the one to write the scores, I want go give credit to the original artists and bass players I've gotten my inspiration from. Everything will be listed below.
 
+***IF YOU POSSESS THE RIGHTS OF A SONG LISTED BELOW*** and you want me to remove the access to the score I have written for the song. Feel free to contact me as I have no problems removing a song.
+
 Feel free to use my scores if you want to learn one of the songs. However, do not go against any local or global copyright laws.
 
 Final piece of information:<br>
